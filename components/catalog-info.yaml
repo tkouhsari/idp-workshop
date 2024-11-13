@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: yournamehere-service
+  name: tkouhsari-service
   description: |
     My Example service which has something to do with APIs and database.
   links:
@@ -37,10 +37,10 @@ metadata:
     #jira/project-key: IDP
     ## Jira plugin - End
   tags:
-    - yournamehere
+    - tkouhsari
 spec:
   type: service
-  owner: change-value
+  owner: Trane
   lifecycle: experimental
   consumesApis:
     - spotify
